@@ -1,0 +1,112 @@
+F:\QRCode_Demo\QRCode_Demo\obj\Debug\QRCode_Demo.csprojResolveAssemblyReference.cache
+F:\QRCode_Demo\QRCode_Demo\bin\ApplicationInsights.config
+F:\QRCode_Demo\QRCode_Demo\bin\roslyn\csc.exe
+F:\QRCode_Demo\QRCode_Demo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\QRCode_Demo\QRCode_Demo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\QRCode_Demo\QRCode_Demo\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\QRCode_Demo\QRCode_Demo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\QRCode_Demo\QRCode_Demo\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\QRCode_Demo\QRCode_Demo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\QRCode_Demo\QRCode_Demo\bin\roslyn\System.Collections.Immutable.dll
+F:\QRCode_Demo\QRCode_Demo\bin\roslyn\System.Reflection.Metadata.dll
+F:\QRCode_Demo\QRCode_Demo\bin\roslyn\vbc.exe
+F:\QRCode_Demo\QRCode_Demo\bin\roslyn\VBCSCompiler.exe
+F:\QRCode_Demo\QRCode_Demo\bin\roslyn\VBCSCompiler.exe.config
+F:\QRCode_Demo\QRCode_Demo\bin\QRCode_Demo.dll.config
+F:\QRCode_Demo\QRCode_Demo\bin\QRCode_Demo.dll
+F:\QRCode_Demo\QRCode_Demo\bin\QRCode_Demo.pdb
+F:\QRCode_Demo\QRCode_Demo\bin\Microsoft.AI.Agent.Intercept.dll
+F:\QRCode_Demo\QRCode_Demo\bin\Microsoft.AI.DependencyCollector.dll
+F:\QRCode_Demo\QRCode_Demo\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\QRCode_Demo\QRCode_Demo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\QRCode_Demo\QRCode_Demo\bin\Microsoft.AI.Web.dll
+F:\QRCode_Demo\QRCode_Demo\bin\Microsoft.AI.WindowsServer.dll
+F:\QRCode_Demo\QRCode_Demo\bin\Microsoft.ApplicationInsights.dll
+F:\QRCode_Demo\QRCode_Demo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\QRCode_Demo\QRCode_Demo\bin\QRCoder.dll
+F:\QRCode_Demo\QRCode_Demo\bin\Microsoft.AI.DependencyCollector.xml
+F:\QRCode_Demo\QRCode_Demo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\QRCode_Demo\QRCode_Demo\bin\Microsoft.AI.Web.xml
+F:\QRCode_Demo\QRCode_Demo\bin\Microsoft.AI.WindowsServer.xml
+F:\QRCode_Demo\QRCode_Demo\bin\Microsoft.ApplicationInsights.xml
+F:\QRCode_Demo\QRCode_Demo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\QRCode_Demo\QRCode_Demo\obj\Debug\QRCode_Demo.dll
+F:\QRCode_Demo\QRCode_Demo\obj\Debug\QRCode_Demo.pdb
+C:\Users\Salih Mertcan Kilic\Desktop\QRCode_Demo\QRCode_Demo\bin\ApplicationInsights.config
+C:\Users\Salih Mertcan Kilic\Desktop\QRCode_Demo\QRCode_Demo\bin\roslyn\csc.exe
+C:\Users\Salih Mertcan Kilic\Desktop\QRCode_Demo\QRCode_Demo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Salih Mertcan Kilic\Desktop\QRCode_Demo\QRCode_Demo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Salih Mertcan Kilic\Desktop\QRCode_Demo\QRCode_Demo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Salih Mertcan Kilic\Desktop\QRCode_Demo\QRCode_Demo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Salih Mertcan Kilic\Desktop\QRCode_Demo\QRCode_Demo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Salih Mertcan Kilic\Desktop\QRCode_Demo\QRCode_Demo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Salih Mertcan Kilic\Desktop\QRCode_Demo\QRCode_Demo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Salih Mertcan Kilic\Desktop\QRCode_Demo\QRCode_Demo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Salih Mertcan Kilic\Desktop\QRCode_Demo\QRCode_Demo\bin\roslyn\vbc.exe
+C:\Users\Salih Mertcan Kilic\Desktop\QRCode_Demo\QRCode_Demo\bin\roslyn\VBCSCompiler.exe
+C:\Users\Salih Mertcan Kilic\Desktop\QRCode_Demo\QRCode_Demo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Salih Mertcan Kilic\Desktop\QRCode_Demo\QRCode_Demo\bin\QRCode_Demo.dll.config
+C:\Users\Salih Mertcan Kilic\Desktop\QRCode_Demo\QRCode_Demo\bin\QRCode_Demo.dll
+C:\Users\Salih Mertcan Kilic\Desktop\QRCode_Demo\QRCode_Demo\bin\QRCode_Demo.pdb
+C:\Users\Salih Mertcan Kilic\Desktop\QRCode_Demo\QRCode_Demo\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Salih Mertcan Kilic\Desktop\QRCode_Demo\QRCode_Demo\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Salih Mertcan Kilic\Desktop\QRCode_Demo\QRCode_Demo\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Salih Mertcan Kilic\Desktop\QRCode_Demo\QRCode_Demo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Salih Mertcan Kilic\Desktop\QRCode_Demo\QRCode_Demo\bin\Microsoft.AI.Web.dll
+C:\Users\Salih Mertcan Kilic\Desktop\QRCode_Demo\QRCode_Demo\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Salih Mertcan Kilic\Desktop\QRCode_Demo\QRCode_Demo\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Salih Mertcan Kilic\Desktop\QRCode_Demo\QRCode_Demo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Salih Mertcan Kilic\Desktop\QRCode_Demo\QRCode_Demo\bin\QRCoder.dll
+C:\Users\Salih Mertcan Kilic\Desktop\QRCode_Demo\QRCode_Demo\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Salih Mertcan Kilic\Desktop\QRCode_Demo\QRCode_Demo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Salih Mertcan Kilic\Desktop\QRCode_Demo\QRCode_Demo\bin\Microsoft.AI.Web.xml
+C:\Users\Salih Mertcan Kilic\Desktop\QRCode_Demo\QRCode_Demo\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Salih Mertcan Kilic\Desktop\QRCode_Demo\QRCode_Demo\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Salih Mertcan Kilic\Desktop\QRCode_Demo\QRCode_Demo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Salih Mertcan Kilic\Desktop\QRCode_Demo\QRCode_Demo\obj\Debug\QRCode_Demo.csprojAssemblyReference.cache
+C:\Users\Salih Mertcan Kilic\Desktop\QRCode_Demo\QRCode_Demo\obj\Debug\QRCode_Demo.csproj.CoreCompileInputs.cache
+C:\Users\Salih Mertcan Kilic\Desktop\QRCode_Demo\QRCode_Demo\obj\Debug\QRCode_Demo.csproj.CopyComplete
+C:\Users\Salih Mertcan Kilic\Desktop\QRCode_Demo\QRCode_Demo\obj\Debug\QRCode_Demo.dll
+C:\Users\Salih Mertcan Kilic\Desktop\QRCode_Demo\QRCode_Demo\obj\Debug\QRCode_Demo.pdb
+D:\Works\QR\QRCode_Demo\QRCode_Demo\bin\ApplicationInsights.config
+D:\Works\QR\QRCode_Demo\QRCode_Demo\bin\roslyn\csc.exe
+D:\Works\QR\QRCode_Demo\QRCode_Demo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Works\QR\QRCode_Demo\QRCode_Demo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Works\QR\QRCode_Demo\QRCode_Demo\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Works\QR\QRCode_Demo\QRCode_Demo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Works\QR\QRCode_Demo\QRCode_Demo\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Works\QR\QRCode_Demo\QRCode_Demo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Works\QR\QRCode_Demo\QRCode_Demo\bin\roslyn\System.Collections.Immutable.dll
+D:\Works\QR\QRCode_Demo\QRCode_Demo\bin\roslyn\System.Reflection.Metadata.dll
+D:\Works\QR\QRCode_Demo\QRCode_Demo\bin\roslyn\vbc.exe
+D:\Works\QR\QRCode_Demo\QRCode_Demo\bin\roslyn\VBCSCompiler.exe
+D:\Works\QR\QRCode_Demo\QRCode_Demo\bin\roslyn\VBCSCompiler.exe.config
+D:\Works\QR\QRCode_Demo\QRCode_Demo\bin\QRCode_Demo.dll.config
+D:\Works\QR\QRCode_Demo\QRCode_Demo\bin\QRCode_Demo.dll
+D:\Works\QR\QRCode_Demo\QRCode_Demo\bin\QRCode_Demo.pdb
+D:\Works\QR\QRCode_Demo\QRCode_Demo\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Works\QR\QRCode_Demo\QRCode_Demo\bin\Microsoft.AI.DependencyCollector.dll
+D:\Works\QR\QRCode_Demo\QRCode_Demo\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Works\QR\QRCode_Demo\QRCode_Demo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Works\QR\QRCode_Demo\QRCode_Demo\bin\Microsoft.AI.Web.dll
+D:\Works\QR\QRCode_Demo\QRCode_Demo\bin\Microsoft.AI.WindowsServer.dll
+D:\Works\QR\QRCode_Demo\QRCode_Demo\bin\Microsoft.ApplicationInsights.dll
+D:\Works\QR\QRCode_Demo\QRCode_Demo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Works\QR\QRCode_Demo\QRCode_Demo\bin\QRCoder.dll
+D:\Works\QR\QRCode_Demo\QRCode_Demo\bin\Microsoft.AI.DependencyCollector.xml
+D:\Works\QR\QRCode_Demo\QRCode_Demo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Works\QR\QRCode_Demo\QRCode_Demo\bin\Microsoft.AI.Web.xml
+D:\Works\QR\QRCode_Demo\QRCode_Demo\bin\Microsoft.AI.WindowsServer.xml
+D:\Works\QR\QRCode_Demo\QRCode_Demo\bin\Microsoft.ApplicationInsights.xml
+D:\Works\QR\QRCode_Demo\QRCode_Demo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Works\QR\QRCode_Demo\QRCode_Demo\obj\Debug\QRCode_Demo.csprojAssemblyReference.cache
+D:\Works\QR\QRCode_Demo\QRCode_Demo\obj\Debug\QRCode_Demo.csproj.CoreCompileInputs.cache
+D:\Works\QR\QRCode_Demo\QRCode_Demo\obj\Debug\QRCode_Demo.csproj.CopyComplete
+D:\Works\QR\QRCode_Demo\QRCode_Demo\obj\Debug\QRCode_Demo.dll
+D:\Works\QR\QRCode_Demo\QRCode_Demo\obj\Debug\QRCode_Demo.pdb
+D:\Works\QR\QRCode_Demo\QRCode_Demo\bin\FireSharp.dll
+D:\Works\QR\QRCode_Demo\QRCode_Demo\bin\FireSharp.Serialization.JsonNet.dll
+D:\Works\QR\QRCode_Demo\QRCode_Demo\bin\Newtonsoft.Json.dll
+D:\Works\QR\QRCode_Demo\QRCode_Demo\bin\RestSharp.dll
+D:\Works\QR\QRCode_Demo\QRCode_Demo\bin\Newtonsoft.Json.xml
+D:\Works\QR\QRCode_Demo\QRCode_Demo\bin\RestSharp.xml
