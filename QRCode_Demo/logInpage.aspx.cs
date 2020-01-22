@@ -15,6 +15,7 @@ namespace QRCode_Demo
     {
         public main_page mpage;
         public QRCode qpage;
+        public active_page_list apage;
         IFirebaseConfig config = new FirebaseConfig
         {
             AuthSecret = "Ds19cBaQHlqdIY4UmJWjTHBJ287FcivkFpaO7szO",
@@ -30,8 +31,10 @@ namespace QRCode_Demo
             }
             mpage = new main_page();
             qpage = new QRCode();
+            apage = new active_page_list();
             mpage.lpage = this;
             qpage.lpage = this;
+            apage.lpage = this;
         }
         public static AdminUser deneme;
         protected void giris_butonu_Click(object sender, EventArgs e)

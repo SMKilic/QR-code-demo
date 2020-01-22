@@ -5,7 +5,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
     <title></title>
-    <link rel="stylesheet" type="text/css" href="StyleSheet.css">
+    <link rel="stylesheet" type="text/css" href="StyleSheet.css"/>
 </head>
 <body>
     <form id="form1" runat="server">
@@ -19,24 +19,19 @@
     </ul>
   </nav>
         <div>
-            <h3>Aktif Olan Listeler</h3>
+            <asp:Label ID="AktifDersLabel" Font-Size="Large" runat="server"></asp:Label>
+            <asp:BulletedList ID="BulletedList1" Font-Size="Medium" runat="server">
+                <asp:ListItem>31322</asp:ListItem>
+                <asp:ListItem>314054</asp:ListItem>
+            </asp:BulletedList>
         </div>
         
         <div>
-            <asp:LinkButton ID="LinkButton1" runat="server" PostBackUrl="~/QRCode.aspx">Bilgisayar Mühendisligine Giriş</asp:LinkButton>
-            <div>
-<asp:BulletedList ID="BulletedList1" runat="server" BulletStyle="Numbered">
-    <asp:ListItem>000000</asp:ListItem>
-    <asp:ListItem>111111</asp:ListItem>
-        </asp:BulletedList>
-            </div>
+
+            <asp:Button ID="listrefresh" runat="server" OnClick="listrefresh_Click" Text="Listeyi Yenile" />
+
         </div>
         
     </form>
 </body>
-    <footer class="footsy">
-    <div class="row">
-     <h4>Listeler öğrenci numaralarına göre oluşturulmuştur.</h4>
-    </div>
-  </footer>
 </html>
